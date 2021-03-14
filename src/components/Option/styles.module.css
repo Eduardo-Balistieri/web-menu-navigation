@@ -1,0 +1,20 @@
+.option {
+  list-style: none;
+  width: 13rem;
+}
+
+.option div {
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  width: fit-content;
+}
+
+.option div p {
+  color: #1D20A4;
+  font-size: 1.3rem;
+  font-weight: 700;
+  text-align: center;
+  transform-origin: 100% 0%;
+  padding: 10px 20px;
+}

@@ -1,0 +1,15 @@
+.navBar {
+  width: fit-content;
+  margin: 0 auto;
+  padding: 50px 0;
+  height: 20;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+circle {
+  position: absolute;  
+  will-change: transform;
+}

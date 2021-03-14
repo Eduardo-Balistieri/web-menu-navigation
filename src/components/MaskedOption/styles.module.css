@@ -1,0 +1,19 @@
+.option {
+  list-style: none;
+  width: 13rem;
+}
+
+.option div {
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  width: fit-content;
+}
+
+p.maskedText {
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #FFF;
+  transform-origin: 0% 100%;
+  padding: 10px 20px;
+}
